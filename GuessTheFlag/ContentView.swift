@@ -34,6 +34,7 @@ struct ContentView: View {
                     .font(.largeTitle.bold())
                     .foregroundStyle(.white)
                 
+                
                 VStack(spacing: 30) {
                     VStack {
                         Text("Tap the flag of")
